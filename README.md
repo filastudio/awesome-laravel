@@ -1,3 +1,4 @@
+
 # Awesome Laravel [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Awesome Laravel/Filament](https://github.com/user-attachments/assets/c61fd424-3ad1-4c1b-86c9-4752d860dcf0)
@@ -5,7 +6,7 @@
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/filastudio)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Laravel 12.x](https://img.shields.io/badge/Laravel-12.x-FF2D20.svg)](https://laravel.com)
-[![Filament 4.x](https://img.shields.io/badge/Filament-4.x-orange.svg)](https://filamentphp.com)
+[![Filament 5.x](https://img.shields.io/badge/Filament-5.x-orange.svg)](https://filamentphp.com)
 [![Contributors](https://img.shields.io/github/contributors/filastudio/awesome-laravel.svg)](https://github.com/filastudio/awesome-laravel/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/filastudio/awesome-laravel.svg)](https://github.com/filastudio/awesome-laravel/commits/main)
 
@@ -45,6 +46,7 @@
 
 - [🏛️ Official Resources](#️-official-resources)
 - [📦 Packages & Ecosystem](#-packages--ecosystem)
+  - [🤖 AI & LLM Integrations](#-ai--llm-integrations)
   - [🔧 Developer Tools & Code Generation](#-developer-tools--code-generation)
   - [🧪 Testing, Debugging & Quality Assurance](#-testing-debugging--quality-assurance)
   - [🔐 Authentication & Authorization](#-authentication--authorization)
@@ -92,15 +94,20 @@
 | [Laracasts](https://laracasts.com) | Official video learning platform — thousands of lessons |
 | [Laravel News](https://laravel-news.com) | Community news portal — packages, tutorials, and announcements |
 | [Laravel Blog](https://laravel.com/blog) | Official announcements, release notes, and framework updates |
-| [Lumen](https://lumen.laravel.com) | Laravel's micro-framework for blazing-fast microservices and APIs |
 | [Laravel Cloud](https://cloud.laravel.com) | Managed serverless deployment platform built for Laravel |
 | [Laravel Forge](https://forge.laravel.com) | Server provisioning and management for PHP applications |
 | [Laravel Vapor](https://vapor.laravel.com) | Serverless deployment platform powered by AWS Lambda |
 | [Laravel Envoyer](https://envoyer.io) | Zero-downtime deployment for PHP and Laravel projects |
+| [Laravel Reverb](https://reverb.laravel.com/) | Blazing fast, scalable real-time WebSocket communication, right in your Laravel app |
+| [Laravel Pulse](https://pulse.laravel.com/) | Open-source application performance monitoring, delivered at scale |
+| [Laravel Nightwatch](https://nightwatch.laravel.com/) | First-class monitoring for Laravel applications, no matter where you deploy |
+| [Laravel Herd](https://herd.laravel.com/) | The fastest Laravel development environment for macOS and Windows |
 | [Laravel Spark](https://spark.laravel.com) | SaaS scaffolding with billing, teams, and subscriptions |
 | [Laravel Nova](https://nova.laravel.com) | Beautifully designed administration panel for Laravel |
 
 [🔝 Back to top](#-contents)
+
+---
 
 ---
 
@@ -112,6 +119,21 @@
 - 📦 [Laravel Collective](https://laravelcollective.com/) — Community-maintained components that were once part of the core framework.
 - 📦 [Packalyst](https://packalyst.com/) — A dedicated directory of Laravel packages with ratings and reviews.
 - 📦 [Spatie Open Source](https://spatie.be/en/opensource/laravel) — A prolific Belgian agency that has released dozens of high-quality, well-documented Laravel packages used by millions of developers worldwide.
+
+---
+
+### 🤖 AI & LLM Integrations
+
+**Bring the power of Artificial Intelligence to your Laravel applications.** The latest generation of Laravel tools makes it easier than ever to integrate Large Language Models (LLMs) and other AI services. From official packages that provide a native feel to community-driven projects, these resources are at the forefront of modern web development.
+
+- [Prism](https://github.com/prism-php/prism) — A powerful, official-feeling Laravel package for integrating LLMs into your applications. It provides a unified, fluent interface for working with providers like OpenAI, Anthropic, Gemini, and more, allowing you to switch between them with a single line of code.
+- [Laravel Boost](https://laravel.com/docs/12.x/boost) — An official MCP (Model Context Protocol) server that exposes tools for AI agents to interact with your Laravel application. It provides the essential context and structure that AI needs to generate high-quality, Laravel-specific code and content.
+- [Neuron AI](https://neuron-ai.dev/) — An enterprise-ready PHP framework for building production-ready AI agents. It allows you to build sophisticated, agentic AI solutions in PHP without needing to switch to Python.
+- [LarAgent](https://github.com/MaestroError/LarAgent) — One of the easiest ways to create and maintain AI agents in your Laravel projects. Build autonomous agents that can perform complex tasks.
+- [Grok-PHP](https://github.com/grok-php/laravel) — A community package to seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly interface.
+- [DocuDoodle](https://github.com/genericmilk/docudoodle) — An AI-powered tool to easily document your codebase, which is especially useful for legacy applications.
+
+[🔝 Back to top](#-contents)
 
 ---
 
@@ -133,6 +155,10 @@
 
 ---
 
+
+
+---
+
 ### 🧪 Testing, Debugging & Quality Assurance
 
 **Ship with confidence.** Laravel is built with testing in mind, and the ecosystem around testing and debugging is exceptional. From elegant test syntax with Pest to powerful browser automation with Dusk, these tools ensure your application works exactly as intended before it reaches production.
@@ -146,6 +172,7 @@
 - [LogViewer](https://github.com/ARCANEDEV/LogViewer) — A powerful log viewer for Laravel that provides a clean web interface for browsing, filtering, and searching your application's log files.
 - [Laravel Mail Preview](https://github.com/themsaid/laravel-mail-preview) — Preview sent mail in a web browser or mail client during development. Never send test emails to real addresses again.
 - [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-generator) — Automatically generate Laravel test factories from your existing Eloquent models, saving hours of boilerplate writing.
+- [Flux](https://fluxui.dev/) — The official Livewire component library. A robust, hand-crafted UI component library for Livewire applications, built using Tailwind CSS.
 
 [🔝 Back to top](#-contents)
 
@@ -169,6 +196,13 @@
 
 ---
 
+
+
+---
+
+
+---
+
 ### 🛠️ Utilities & Helpers
 
 **The Swiss Army knife of Laravel packages.** These utility packages solve common problems that almost every web application faces — from generating slugs and handling tags to managing multi-tenancy and sending real-time notifications. Each package is well-tested, well-documented, and trusted by the community.
@@ -186,18 +220,19 @@
 - [Laravel Cashier](https://laravel.com/docs/cashier-stripe) — An expressive, fluent interface to Stripe's subscription billing services. Handle subscriptions, coupons, swapping plans, and invoices with a clean API.
 - [Ziggy](https://github.com/tighten/ziggy) — Use your Laravel named routes in JavaScript. Ziggy generates a JavaScript object of all your routes, making it easy to build SPAs with Vue or React.
 - [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) — Import and export Excel and CSV files with a fluent, expressive API. The most popular spreadsheet package for Laravel with over 100 million downloads.
-- [Laravel Telescope](https://laravel.com/docs/telescope) — An elegant debug assistant for the Laravel framework. Provides insight into every request, exception, query, and job in your application.
 - [Laravel Pennant](https://laravel.com/docs/pennant) — A simple, lightweight package for managing feature flags. Roll out new features gradually and safely with a clean, expressive API.
 - [Laravel Pint](https://laravel.com/docs/pint) — An opinionated PHP code style fixer for minimalists. Pint is built on top of PHP-CS-Fixer and ensures your code always looks clean and consistent.
 - [Laravel Reverb](https://reverb.laravel.com/) — A first-party WebSocket server for Laravel applications. Bring real-time features to your application with a blazing-fast, scalable WebSocket server.
 - [Laravel Octane](https://laravel.com/docs/octane) — Supercharge your application's performance by serving it with high-powered application servers like Swoole and RoadRunner. Dramatically reduce response times.
 - [Laravel Livewire](https://livewire.laravel.com/) — A full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of PHP. Build reactive components with server-side rendering.
 - [Laravel Sanctum](https://laravel.com/docs/sanctum) — A featherweight authentication system for SPAs, mobile applications, and simple token-based APIs. The recommended authentication solution for modern Laravel apps.
+- [Folio](https://laravel.com/docs/12.x/folio) — A powerful page-based router designed to simplify routing in Laravel applications. With Laravel Folio, generating a route becomes as effortless as creating a Blade template.
+- [Volt](https://laravel.com/docs/12.x/volt) — An elegantly crafted functional API for Livewire that allows you to write your entire component in a single file.
+- [Concurrency](https://laravel.com/docs/12.x/concurrency) — A simple, convenient API for executing closures concurrently, making it easier to run multiple tasks in parallel.
 
 [🔝 Back to top](#-contents)
 
 ---
-
 ### 🖼️ Media & Document Management
 
 **Handle files, images, and documents like a pro.** From image manipulation and PDF generation to video processing and file storage, these packages cover every media-related need in a modern web application.
@@ -213,7 +248,6 @@
 [🔝 Back to top](#-contents)
 
 ---
-
 ### 💻 Frontend & JavaScript Integration
 
 **Bridge the gap between PHP and JavaScript.** Modern web applications require seamless integration between server-side Laravel and client-side JavaScript frameworks. These packages make it easy to share data, routes, and state between your Laravel backend and your Vue, React, or Alpine.js frontend.
@@ -228,14 +262,13 @@
 [🔝 Back to top](#-contents)
 
 ---
-
 ### 🗃️ Databases, ORMs & Migrations
 
 **Eloquent is powerful, but the ecosystem makes it extraordinary.** These packages extend Laravel's Eloquent ORM with advanced features like nested sets, composite keys, cross-database relationships, and powerful query builders. They also provide tools for managing database migrations, backups, and multi-database setups.
 
 - [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) — Eloquent model and query builder with support for MongoDB. Use the same Eloquent API you know and love, but with a MongoDB backend.
 - [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset) — Nested Sets pattern implementation for Eloquent. Build hierarchical data structures like categories, menus, and organizational charts with ease.
-- [Migrations Generator](https://github.com/kitloong/laravel-migrations-generator) — Generate Laravel migrations from an existing database. Perfect for onboarding to a legacy project or reverse-engineering a database schema.
+- [Migrations Generator](https://github.com/kitloong/laravel-migrations-generator) — Automatically generate your migrations from an existing database schema.
 - [Laravel Backup](https://github.com/spatie/laravel-backup) — Back up your application's files and databases to multiple destinations. Schedule automatic backups and receive Slack or email notifications on failure.
 - [Laravel Repository](https://github.com/andersao/l5-repository) — Implement the Repository pattern in your Laravel application for a clean, testable data access layer.
 - [Eloquent Power Joins](https://github.com/kirschbaum-development/eloquent-power-joins) — The missing join methods for Eloquent. Write complex joins using the same expressive syntax as Eloquent relationships.
@@ -244,7 +277,6 @@
 [🔝 Back to top](#-contents)
 
 ---
-
 ### 🔍 Search & Full-Text Indexing
 
 **Help your users find what they're looking for instantly.** Search is a critical feature for any content-rich application. These packages integrate Laravel with powerful search engines like Elasticsearch and Algolia, or provide self-hosted full-text search capabilities.
@@ -258,7 +290,6 @@
 [🔝 Back to top](#-contents)
 
 ---
-
 ### ⚙️ APIs & Web Services
 
 **Build powerful, well-documented APIs with ease.** Laravel is an excellent choice for building RESTful and GraphQL APIs. These packages provide everything you need to build, document, and secure your API endpoints.
@@ -318,6 +349,7 @@
 
 **Know what's happening in your application at all times.** Production applications need robust monitoring and observability. These tools give you real-time insight into your application's health, performance, and errors.
 
+- [Laravel Nightwatch](https://nightwatch.laravel.com/) — The official, first-party production monitoring platform for Laravel. Deep monitoring and insights, no matter where you deploy.
 - [Laravel Telescope](https://laravel.com/docs/telescope) — The official debug assistant for Laravel. Provides deep insight into requests, exceptions, log entries, database queries, queued jobs, mail, notifications, and cache operations.
 - [Laravel Horizon](https://laravel.com/docs/horizon) — Monitor and configure your Redis queues with a beautiful, real-time dashboard. Track job throughput, runtime, and failure rates.
 - [Laravel Pulse](https://laravel.com/docs/pulse) — A free, open-source application performance monitoring tool for Laravel. Track requests, jobs, exceptions, and slow queries with a beautiful dashboard.
@@ -359,7 +391,7 @@
 
 ## 🌟 Laravel Filament
 
-> **The most powerful and beautiful admin panel toolkit for Laravel.** Filament is a collection of full-stack components built on the TALL stack (Tailwind CSS, Alpine.js, Livewire, and Laravel). It lets you build stunning, feature-rich admin panels, forms, tables, and infolist pages in a fraction of the time it would take from scratch. With over 683 community plugins, 315 authors, and 31,000+ GitHub stars, Filament has become the de facto standard for building admin interfaces in the Laravel ecosystem.
+> **The most powerful and beautiful admin panel toolkit for Laravel.** Filament is a collection of full-stack components built on the TALL stack (Tailwind CSS, Alpine.js, Livewire, and Laravel). It lets you build stunning, feature-rich admin panels, forms, tables, and infolist pages in a fraction of the time it would take from scratch. With over 700 community plugins, 300+ authors, and 32,000+ GitHub stars, Filament has become the de facto standard for building admin interfaces in the Laravel ecosystem.
 
 ---
 
@@ -371,7 +403,7 @@
 |---|---|
 | [Filament](https://filamentphp.com/) | Official website — documentation, plugins, and community |
 | [Documentation](https://filamentphp.com/docs) | Comprehensive docs for all Filament versions |
-| [Plugin Directory](https://filamentphp.com/plugins) | 683+ community and official plugins |
+| [Plugin Directory](https://filamentphp.com/plugins) | 700+ community and official plugins |
 | [GitHub](https://github.com/filamentphp/filament) | Source code, issues, and contributions |
 | [Live Demo](https://demo.filamentphp.com/) | Try Filament without installing anything |
 | [Demo Source Code](https://github.com/filamentphp/demo) | Full source code of the official Filament demo app |
@@ -384,9 +416,16 @@
 
 **Extend your admin panel with community-built plugins.** The Filament plugin ecosystem is one of the most vibrant in the Laravel world. From role-based access control and Excel exports to calendar widgets and map pickers, there is a plugin for virtually every use case.
 
+#### Featured & Official Plugins
+
+- [Custom Dashboards](https://filamentphp.com/plugins/filament-custom-dashboards) — An official Filament plugin that lets your users build and share their own dashboards with a drag-and-drop interface.
+- [Advanced Tables](https://filamentphp.com/plugins/kenneth-sese-advanced-tables) — Supercharge your tables with user-customizable views, quick filters, multi-column sorting, and advanced searching.
+- [Custom Fields](https://filamentphp.com/plugins/relaticle-custom-fields) — Eliminate custom field migrations forever. Let your users create and manage form fields directly in your admin panel.
+- [Data Lens](https://filamentphp.com/plugins/padmission-data-lens) — Advanced data visualization and reporting solution for building custom, enterprise-grade data insights.
+
 #### Security & Access Control
 
-- [Filament Shield](https://filamentphp.com/plugins/bezhansalleh-shield) — The easiest and most intuitive way to handle `Policies` and `Permissions` for your Filament panels. Built on top of `spatie/laravel-permission`, Shield generates policies automatically and provides a beautiful UI for managing roles and permissions. The most downloaded security plugin in the Filament ecosystem.
+- [Filament Shield](https://filamentphp.com/plugins/bezhansalleh-shield) — The easiest and most intuitive way to handle policies and permissions with `spatie/laravel-permission`.
 - [Althinect Spatie Roles & Permissions](https://github.com/Althinect/filament-spatie-roles-permissions) — A clean integration with `spatie/laravel-permission` that adds resource pages for managing roles and permissions directly in your Filament panel.
 - [Filament Socialite](https://github.com/DutchCodingCompany/filament-socialite) — Add OAuth login through Laravel Socialite to your Filament panel. Support Google, GitHub, Facebook, and 100+ other providers with minimal configuration.
 - [Filament Impersonate](https://github.com/stechstudio/filament-impersonate) — Impersonate any user directly from your Filament admin panel. An essential tool for debugging user-specific issues in production.
@@ -631,8 +670,7 @@
 
 **Learn from the best by studying real-world applications.** One of the most effective ways to improve your Laravel skills is to study how experienced developers structure and build real applications. These open-source projects cover a wide range of use cases and complexity levels.
 
-- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — A full-featured invoicing, expense tracking, and time-tracking application. One of the most comprehensive open-source Laravel applications, with a rich feature set and clean architecture.
-- [Monica](https://github.com/monicahq/monica) — A personal relationship management system. Monica helps you remember everything about your friends and family. A great example of a well-structured, test-driven Laravel application.
+- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — A full-featured invoicing, expense tracking, and time-tracking application. One of the most popular open-source Laravel projects.
 - [Pixelfed](https://github.com/pixelfed/pixelfed) — A free and ethical photo sharing platform powered by ActivityPub federation. A complex, production-grade Laravel application with a large user base.
 - [Koel](https://github.com/koel/koel) — A personal music streaming server. Koel provides a beautiful, Spotify-like interface for streaming your own music collection.
 - [Cachet](https://github.com/CachetHQ/Cachet) — A beautiful, open-source status page system. Used by thousands of companies to communicate service outages and incidents.
