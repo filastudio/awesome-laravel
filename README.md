@@ -376,6 +376,7 @@ Extend your admin panel with community-built plugins. The Filament plugin ecosys
 *   [Filament Spatie Media Library](https://github.com/filament-spatie-media-library/filament-spatie-media-library) — Official Spatie Media Library integration for Filament. Add powerful file upload and media management capabilities to your forms and infolists.
 *   [Filament Import](https://github.com/Konvenit/filament-import) — Dynamic file import for Filament. Import CSV, Excel, and other file formats without needing a template — the package maps columns automatically.
 *   [Filament Export](https://github.com/filament-export/filament-export) — Customizable export and print functionality for Filament tables. Export to CSV, PDF, and print directly from the admin panel.
+*   [Tapix](https://tapix.dev) — A 4-step CSV import wizard with smart column mapping, inline validation, relationship linking, and queue-powered processing.
 
 #### UI & Navigation
 
