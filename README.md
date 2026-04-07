@@ -292,6 +292,7 @@ Make your application blazing fast. Performance is a feature. These packages hel
 *   [Intervention Image Cache](https://image.intervention.io/v2/introduction/cache) — Caching extension for the Intervention Image library. Cache processed images to avoid re-processing on every request.
 *   [Rememberable](https://github.com/dwightwatson/rememberable) — Query caching for Eloquent. Cache the results of your Eloquent queries with a single method call.
 *   [Laravel HTMLMin](https://github.com/HTMLMin/Laravel-HTMLMin) — Minify HTML, CSS, and JavaScript output from your Laravel application. Reduce page size and improve load times.
+*   [Laravel Fluent Validation](https://github.com/SanderMuller/laravel-fluent-validation) — Typed validation rule builders with IDE autocompletion. Replaces Laravel's O(n²) wildcard expansion with O(n) and fast-checks common rules in plain PHP, skipping the validator entirely for valid items. Up to 97x faster for large array validation.
 
 [🔝 Back to top](#contents)
 
