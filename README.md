@@ -592,6 +592,7 @@ Learn from the best by studying real-world applications. One of the most effecti
 *   [Snipe-IT](https://github.com/snipe/snipe-it) — A free, open-source IT asset and license management system. Used by thousands of organizations worldwide.
 *   [Laravel.io](https://github.com/laravelio/laravel.io) — The source code for the Laravel.io community portal. A great reference for building a community platform with Laravel.
 *   [Canvas](https://github.com/cnvs/canvas) — A minimal, elegant blogging platform built with Laravel. A great reference for building a content management system.
+*   [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) — A self-hosted CMS built with Laravel 12 + React 19 + shadcn/ui. Features a REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode. A real-world reference for Laravel + Inertia + React admin panels. [Website](https://unfoldcms.com)
 
 [🔝 Back to top](#contents)
 
