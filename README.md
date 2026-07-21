@@ -577,6 +577,7 @@ Skip the boilerplate and start building features. These starter projects provide
 *   [Laravel Enso](https://github.com/laravel-enso/enso) — A SPA admin panel built with Laravel, Inertia.js, and Vue. Provides a rich set of features including user management, roles, permissions, and data tables.
 *   [Laravel Zero](https://laravel-zero.com/) — A micro-framework for building elegant console applications with Laravel. Perfect for building CLI tools and scripts.
 *   [Backpack for Laravel](https://backpackforlaravel.com/) — A collection of packages that help you build custom admin panels for your Laravel application. Provides a clean, Bootstrap-based UI with a rich set of CRUD operations.
+*   [Charter for Laravel](https://laravelcharter.com/) — A web app that lets you visually configure a new Laravel Sail application (PHP version, services, starter kit, auth, database, devcontainer, etc.) and generates a ready-to-run `curl | bash` command. Also includes a Laravel package scaffolder.
 
 [🔝 Back to top](#contents)
 
