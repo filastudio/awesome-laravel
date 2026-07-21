@@ -395,6 +395,7 @@ Extend your admin panel with community-built plugins. The Filament plugin ecosys
 *   [Filament Logger](https://github.com/zaam/filament-logger) — Extensible activity logger for Filament that works out of the box. Uses spatie/laravel-activitylog under the hood to track all changes made through your admin panel.
 *   [Filament Email Log](https://github.com/awcodes/filament-email-log) — A Filament resource to view all emails sent by your Laravel application. Browse, search, and preview sent emails directly in your admin panel.
 *   [Filament Debugger](https://github.com/bezhanSalleh/filament-debugger) — Easily add Laravel Telescope and Horizon to your Filament panel. Access your debug tools without leaving the admin interface.
+*   [Filament Outbox](https://github.com/stboris/filament-outbox) — Discord, Slack, Microsoft Teams and signed-webhook notifications with an optional Filament admin panel. Manage endpoints, browse send history with retry, and trigger notifications from model events, all without touching .env files.
 
 #### Content & Features
 
