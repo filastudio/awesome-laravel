@@ -445,6 +445,7 @@ Learn by example. Studying real-world Filament applications is one of the best w
 
 *   [Filament Demo](https://github.com/filamentphp/demo) — The official Filament demo application. A full-featured demo covering a realistic spread of admin panel patterns across three modules: an e-commerce shop, a blog, and an HR system.
 *   [ERPSaas](https://github.com/erpsaas/erpsaas) — A Laravel and Filament-powered accounting platform featuring full double-entry accrual accounting. A showcase of what is possible with Filament for complex, data-intensive applications.
+*   [OpenLMNP](https://github.com/manganate006/openlmnp) — An open-source (AGPLv3) accounting app for the French LMNP furnished-rental tax status, built with Laravel 13 and Filament 5. Computes per-component depreciation, generates the official French tax return and FEC accounting export, imports Airbnb/Booking.com bookings, and includes a micro-BIC vs. real-regime simulator.
 *   [Krayin ERP](https://github.com/krayin/krayin) — A comprehensive, open-source Enterprise Resource Planning (ERP) solution for SMEs built with Laravel and Filament. Covers CRM, inventory, HR, and more.
 *   [Relaticle](https://github.com/relaticle/relaticle) — The next-generation open-source CRM for growing teams. Built with Filament, it offers a clean, modern interface for managing contacts, deals, and pipelines.
 *   [Tiny CRM](https://github.com/tiny-crm/tiny-crm) — A small, open-source CRM application created with Filament PHP. A great reference project for understanding Filament's core concepts.
