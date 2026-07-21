@@ -98,6 +98,7 @@ The Laravel package ecosystem is one of the richest in the PHP world. With thous
 *   [Packagist](https://packagist.org/) — The central PHP package repository. Search and discover any Laravel-compatible package.
 *   [Laravel Collective](https://laravelcollective.com/) — Community-maintained components that were once part of the core framework.
 *   [Packalyst](https://packalyst.com/) — A dedicated directory of Laravel packages with ratings and reviews.
+*   [Laraplugins.io](https://laraplugins.io/) — Directory of 80K+ Laravel packages with health scores, PHP/Laravel version compatibility, and security advisories. All stats are open at /open. ALl data is freely accesabile for free. 
 *   [Spatie Open Source](https://spatie.be/open-source) — A prolific Belgian agency that has released dozens of high-quality, well-documented Laravel packages used by millions of developers worldwide.
 
 [🔝 Back to top](#contents)
@@ -113,6 +114,7 @@ Bring the power of Artificial Intelligence to your Laravel applications. The lat
 *   [Prism](https://github.com/prism-php/prism) — A powerful, official-feeling Laravel package for integrating LLMs into your applications. It provides a unified, fluent interface for working with providers like OpenAI, Anthropic, Gemini, and more, allowing you to switch between them with a single line of code.
 *   [Neuron AI](https://github.com/neuron-php/neuron) — An enterprise-ready PHP framework for building production-ready AI agents. It allows you to build sophisticated, agentic AI solutions in PHP without needing to switch to Python.
 *   [LarAgent](https://github.com/laragent/laragent) — One of the easiest ways to create and maintain AI agents in your Laravel projects. Build autonomous agents that can perform complex tasks.
+*    [Laraplugins MCP](https://laraplugins.io/mcp) — A Model Context Protocol server serving 1M+ requests/month, enabling AI coding tools to look up Laravel package health, compatibility, and security data in real time.
 *   [Grok-PHP](https://github.com/grok-php/grok) — A community package to seamlessly integrate Grok AI into Laravel applications with an elegant, developer-friendly interface.
 *   [DocuDoodle](https://github.com/docudoodle/docudoodle) — An AI-powered tool to easily document your codebase, which is especially useful for legacy applications.
 
