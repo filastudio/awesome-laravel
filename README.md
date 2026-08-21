@@ -214,6 +214,7 @@ Handle files, images, and documents like a pro. From image manipulation and PDF 
 Bridge the gap between PHP and JavaScript. Modern web applications require seamless integration between server-side Laravel and client-side JavaScript frameworks. These packages make it easy to share data, routes, and state between your Laravel backend and your Vue, React, or Alpine.js frontend.
 
 *   [Laravel Livewire](https://livewire.laravel.com/) — Build dynamic, reactive interfaces using only PHP. Livewire is a full-stack framework that eliminates the need for a separate JavaScript framework for most use cases.
+*   [Slate](https://github.com/electrikhq/slate) — A shadcn-inspired Blade UI kit for Laravel with anonymous components, Tailwind CSS v4, dark mode, and Livewire-ready forms.
 *   [Inertia.js](https://inertiajs.com/) — The modern monolith. Build single-page applications using Vue, React, or Svelte without building a separate API. Inertia bridges your Laravel backend and your JavaScript frontend seamlessly.
 *   [Ziggy](https://github.com/tighten/ziggy) — Use your Laravel named routes in JavaScript. Generates a JavaScript object of all your routes, making it trivial to build links and forms in your SPA.
 *   [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) — Pass server-side string, array, collection, or any other variable to JavaScript with a simple, expressive API.
