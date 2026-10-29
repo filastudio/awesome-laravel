@@ -206,6 +206,7 @@ Handle files, images, and documents like a pro. From image manipulation and PDF 
 *   [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) — Import and export Excel and CSV files with a fluent, expressive API. Supports large files with chunked reading and writing.
 *   [Fast Excel](https://github.com/rap2hpoutre/fast-excel) — Fast XLSX, CSV and ODT import and export for Laravel. Optimized for performance with large datasets.
 *   [Laravel FFmpeg](https://github.com/protonemedia/laravel-ffmpeg) — An integration with FFmpeg for Laravel. Process videos, extract audio, generate thumbnails, and more.
+*   [Laravel Storage Dedupler](https://github.com/maxkhim/laravel-storage-dedupler) — Prevents duplicate file storage using SHA-1 hashing and polymorphic relations.
 
 [🔝 Back to top](#contents)
 
